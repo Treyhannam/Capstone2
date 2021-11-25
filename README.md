@@ -17,7 +17,7 @@ A handful of classification modles were ran to see which ones were worth further
 ![model df](https://github.com/Treyhannam/Capstone2/blob/main/classmodels.PNG?raw=True)
 
 After the model was hyptertuned the F1 Score improved by 10% with a score of ~0.76. Below is the confusion matrix for the tuned model.
-![matrix](https://github.com/Treyhannam/Capstone2/blob/main/matrix.PNG?raw=True)
+![matrix](https://github.com/Treyhannam/Capstone2/blob/main/matrixmodel.PNG?raw=True)
 
 ## Conclusion
 The goal was to be able to categorize the price of wine given related information about the wine. The intention was to build a model that would classify wine prices in a mannar where consumers can determine the relative pricing (expensive vs average) given the information they know about the wine.
